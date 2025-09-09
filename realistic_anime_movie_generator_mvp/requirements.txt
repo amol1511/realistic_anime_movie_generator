@@ -1,7 +1,5 @@
 streamlit
 requests
-Pillow
 gTTS
+Pillow
 moviepy
-imageio[ffmpeg]
-python-dotenv
