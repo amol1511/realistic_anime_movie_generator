@@ -3,4 +3,5 @@ requests
 Pillow
 gTTS
 moviepy
+imageio[ffmpeg]
 python-dotenv
